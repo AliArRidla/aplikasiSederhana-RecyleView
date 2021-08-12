@@ -2,4 +2,4 @@
 pertemuan DTS ke 7
 
 ## gambaran aplikasi
-![alt text(gambar.png)
+![alt text(/gambar.png)

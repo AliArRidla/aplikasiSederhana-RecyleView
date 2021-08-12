@@ -2,4 +2,4 @@
 pertemuan DTS ke 7
 
 ## gambaran aplikasi
-![alt text(https://github.com/AliArRidla/aplikasiSederhana-RecyleView/blob/master/gambar.png)
+![alt text](gambar.png)
